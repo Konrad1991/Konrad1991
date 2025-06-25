@@ -16,7 +16,7 @@ I'm a **PostDoc at KIT**, passionate about **R, C++, numerical optimization, dat
 
 ### 🏗️ Applied Projects
 - [**Thermosimfit**](https://github.com/ComPlat/Thermosimfit) - Optimizing parameters in thermodynamic models.
-- [**BioStats**](https://github.com/ComPlat/Biostats) - A Shiny app for statistical analysis with ggplot2, t-tests, and more.
+- [**BioStats**](https://github.com/ComPlat/Biostats) - A Shiny app for statistical analysis. 
 
 ## 📫 Connect with Me
 - 💬 Feel free to reach out about R, C++, numerical optimization, and scientific computing!
