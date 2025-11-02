@@ -1,13 +1,13 @@
-# Hi, I'm Konrad (Konrad1991)
+# Hi, I'm Konrad
 
-I'm a PostDoc, passionate about R, C++, numerical optimization, data science, and machine learning. 
+I'm passionate about R, C++, numerical optimization, data science, and machine learning. 
 I enjoy building tools that bridge R and C++, optimizing computations, and exploring new ways to enhance scientific workflows.
 
 ## Technologies & Tools
 
-- **Programming:** R, C++, Go and Fortran
-- **Scientific Computing:** Numerical Optimization, Data Science, Meta programming
-- **Software Development:** Mostly R packages, C++ libraries, and Shiny apps
+- Programming: R, C++, Go and Fortran
+- Scientific Computing: Numerical Optimization, Data Science, Meta programming
+- Software Development: Mostly R packages, C++ libraries, and Shiny apps
 
 ## Featured Projects
 ### R & C++
