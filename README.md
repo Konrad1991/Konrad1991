@@ -1,7 +1,7 @@
 # Hi, I'm Konrad (Konrad1991)
 
-I'm a **PostDoc at KIT**, passionate about **R, C++, numerical optimization, data science, and machine learning**. 
-I enjoy building tools that bridge **R and C++**, optimizing computations, and exploring new ways to enhance scientific workflows.
+I'm a PostDoc, passionate about R, C++, numerical optimization, data science, and machine learning. 
+I enjoy building tools that bridge R and C++, optimizing computations, and exploring new ways to enhance scientific workflows.
 
 ## Technologies & Tools
 
