@@ -4,8 +4,8 @@ I build software for science and for fun.
 
 Most of my time goes into scientific computing with R and C++:
 ODEs, automatic differentiation, optimization. My main project,
-[ast2ast](https://github.com/Konrad1991/ast2ast), translates R functions
-into fast C++.
+[ast2ast](https://github.com/Konrad1991/ast2ast), translates
+R functions into fast C++.
 
 I also care about making that kind of software usable for people who
 don't want to touch code. That's why I write Shiny apps, like
