@@ -1,22 +1,20 @@
 # Hi, I'm Konrad
 
-I'm passionate about R, C++, numerical optimization, data science, and machine learning. 
-I enjoy building tools that bridge R and C++, optimizing computations, and exploring new ways to enhance scientific workflows.
+I build software for science and for fun.
 
-## Technologies & Tools
+Most of my time goes into scientific computing with R and C++:
+ODEs, automatic differentiation, optimization. My main project,
+[ast2ast](https://github.com/Konrad1991/ast2ast), translates R functions
+into fast C++.
 
-- Programming: R, C++, Go and Fortran
-- Scientific Computing: Numerical Optimization, Data Science, Meta programming
-- Software Development: Mostly R packages, C++ libraries, and Shiny apps
+I also care about making that kind of software usable for people who
+don't want to touch code. That's why I write Shiny apps, like
+[OpenStats](https://github.com/ComPlat/OpenStats).
 
-## Featured Projects
-### R & C++
-- [**ast2ast**](https://github.com/Konrad1991/ast2ast) - Translates an R function into a C++ function callable from R.
-- [**dfdr**](https://github.com/Konrad1991/dfdr) - R package for computing derivatives of functions.
+And sometimes I just build things because they're fun:
+[Carolus](https://github.com/Konrad1991/Carolus), a medieval village builder
+in plain C, [rayplot](https://github.com/Konrad1991/rayplot), which turns
+ggplot2 code into interactive raylib windows, or
+[Learning](https://github.com/Konrad1991/Learning), where I learn algorithms by building them.
 
-### Applied Projects
-- [**Thermosimfit**](https://github.com/ComPlat/Thermosimfit) - Optimizing parameters in thermodynamic models.
-- [**OpenStats**](https://github.com/ComPlat/OpenStats) - A Shiny app for statistical analysis. 
-
-## Connect with Me
-- Feel free to reach out about R, C++, numerical optimization, and scientific computing!
+If you use or develop R packages and want to talk about any of this reach out.
